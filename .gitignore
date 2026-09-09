@@ -1,0 +1,13 @@
+# Local Python environments and setup tools
+.venv/
+.tools/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated analysis artifacts
+recipes.ttl
+
+# Local editor settings
+.idea/
+.vscode/
