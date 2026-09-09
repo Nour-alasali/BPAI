@@ -1,4 +1,4 @@
-# BPAI
+# Bachelor Project AI
 
 ### This repository has the data and code used for the research project "Flavours of History: Exploring Historical and Cultural Connections Through Ingredient Analysis Using NLP and Knowledge Graphs"
 RQ: How can the analysis of culinary ingredients through NLP and knowledge graphs reveal historical connections and cultural exchanges between different global cultures?
